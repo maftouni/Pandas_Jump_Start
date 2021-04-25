@@ -7,4 +7,4 @@ https://www.kaggle.com/dansbecker/melbourne-housing-snapshot
 
 ## Requirements:
 A python installation with conda. Anaconda recommended.
-After Python installation, simply run `jupyter notebook`.
+After Python installation, simply run `jupyter notebook` and open the notebook in this repository.
