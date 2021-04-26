@@ -8,6 +8,9 @@ This repository is build for the **INFORMS Student Chapter at VT Python Workshop
 The dataset can be downloaded from the followig Kaggle link: 
 https://www.kaggle.com/dansbecker/melbourne-housing-snapshot
 
-## Requirements:
+## Run on Binder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/maftouni-pandas_jump_start-3bjpg6a4/tree)
+
+## Run offline:
 A python installation with conda. Anaconda recommended.
 After Python installation, simply run `jupyter notebook` and open the notebook in this repository.
