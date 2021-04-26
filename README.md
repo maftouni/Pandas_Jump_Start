@@ -9,7 +9,7 @@ The dataset can be downloaded from the followig Kaggle link:
 https://www.kaggle.com/dansbecker/melbourne-housing-snapshot
 
 ## Run on Binder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maftouni/Pandas_Jump_Start/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maftouni/Pandas_Jump_Start/main)
 
 ## Run offline:
 A python installation with conda. Anaconda recommended.
