@@ -3,5 +3,4 @@ numpy==1.18.5
 pandas==1.0.4
 datetime
 plotly
-jupyterlab-plotly
 seaborn==0.10.1
